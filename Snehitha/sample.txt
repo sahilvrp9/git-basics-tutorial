@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 Hello Snehitha
+=======
+
+
+changed file
+
+>>>>>>> 3f4fc311c01f63bbda176d31ad55acf205ccd24b

@@ -1,3 +1,8 @@
+<<<<<<< Updated upstream
 Hello Folks.. 
 I have been changing things in this file and I am committing the same to the repo accordingly...
 
+=======
+Hello Sample
+I made my commit succesfully
+>>>>>>> Stashed changes
